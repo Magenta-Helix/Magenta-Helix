@@ -1,0 +1,66 @@
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,user-scalable=yes">
+	<link href="http://fonts.googleapis.com/css?family=Buda:light" rel="stylesheet" type="text/css">
+<style type="text/css">
+html{margin:0 auto;}
+body{padding: 0 .5em 1em .5em;background-image: url('woo.jpg');background-repeat: no-repeat;background-size: cover; background-attachment: fixed; text-align: center ; align}
+h1{font-size:120%;font-weight:700;text-transform:uppercase;
+letter-spacing:0.18em;padding:1em 0 0 0}
+h2{font-size:115%}
+h3{font-size:110%}
+h4{font-size:105%l}
+p{font-size:105%;line-height:1.5em;word-spacing:.15em}
+pre{font-size:85%;line-height:1.3em}
+ol{font-size:100%;line-height:1.5em;padding:0 0 0 1.75em}
+ul{font-size:100%;line-height:1.5em}
+.mono{max-width:10em}
+a:link{color:#900;text-decoration:none}
+a:visited {color:#900;text-decoration:none}
+img{width:100% height:auto}
+</style>
+<title>Magenta Helix</title>
+</head>
+ <h1 align="center" >Magenta Helix Research</h1>
+	
+<link href="styleweb.css" rel="stylesheet" type="text/css">
+	
+	
+<div id="navbar" align="center">
+	
+  <a href="https://Magenta-Helix.github.io/Magenta-Helix/Home.html">Home</a>
+  <a href="https://Magenta-Helix.github.io/Magenta-Helix/About.html">About</a>
+  <a href="https://Magenta-Helix.github.io/Magenta-Helix/Devlog.html">DevLog</a>
+<a href="https://Magenta-Helix.github.io/Magenta-Helix/Contact.html">Contact</a>
+<!-- Code belongs to Avinash Bakshi -->
+  <script>
+	  window.onscroll = function() {myFunction()};
+
+	  	var navbar = document.getElementById("navbar");
+	  	var sticky = navbar.offsetTop;
+
+	  	function myFunction() {
+  		if (window.pageYOffset >= sticky) {
+				navbar.classList.add("sticky")
+  		} else {
+    navbar.classList.remove("sticky");
+  }
+}
+		</script>	
+</div>
+	<p></p>
+	<br>
+
+	<p><h2 >Devlog</h2></p>
+	<br>
+
+
+         <p>Welcome to the Devlog where we give you monthly updates on the project!</p>
+<br>
+
+<h3> October 2023 </h3>
+<p>I finish brushing up on my HTML and CSS skills and get to building the website. I have chosen to build the website from scratch to allow for increased customizability down the road. Github is up and running and initial webpages are created. Next up is to Finish the Navbar and finally refresh my Python skills.</p>
+<h3>August 2023</h3>
+Planning and preparation for Magenta Helix starts here. 
+
+<br>
