@@ -1,4 +1,4 @@
-<html lang="en"><head>
+html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,user-scalable=yes">
 	<link href="http://fonts.googleapis.com/css?family=Buda:light" rel="stylesheet" type="text/css">
@@ -29,7 +29,7 @@ img{width:100% height:auto}
 <div id="navbar" align="center">
 	
   <a href="https://Magenta-Helix.github.io/Magenta-Helix/Home.html">Home</a>
-  <a href="https://Magenta-Helix.github.io/Magenta-Helix/Home.html">About</a>
+  <a href="https://Magenta-Helix.github.io/Magenta-Helix/About.html">About</a>
 <!-- Code belongs to Avinash Bakshi -->
   <script>
 	  window.onscroll = function() {myFunction()};
@@ -57,22 +57,14 @@ img{width:100% height:auto}
 	<p>This website is designed from the ground up using mainly HTML and CSS to allow for more customizability down the road.</p>
 	<br>
 
-<h3> Content Includes:</h3>
-<p> DevLog</p>
-<p> Research</p>
-<p> Placeholder </p>
 
 
-<br>
-
-
-<h3> Cool Features include:</h3>
-<p> Scrolling header that is also reformatted for mobile devices</p>
 
 <br>
 
 
 	<p><i>"Learning never exhausts the mind" - Leonardo Da Vinci</i></p>
+<br>
 <br>
 <br>
 <br>
