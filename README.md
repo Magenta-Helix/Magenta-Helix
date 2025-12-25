@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> Welcome to Magenta Helix! This is a project that intends to blend both data and visualization. The full launch of the website is expected at some point in 2024. Please view the Devlog for updates!</p>
+<p> Welcome to Magenta Helix! This is a project that intends to Launch a wide variety of software solutions</p>
 <!--
 **Magenta-Helix/Magenta-Helix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
